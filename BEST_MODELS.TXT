@@ -1,0 +1,29 @@
+SESSION_SET: '/home/linux-pc/gh/CRCNS/src/motor_cortex/data/data/Ipsilateral/2018-05-24_(S10)/X.npy', 0
+best_epoch: 22 | best_val_loss: 0.8577559143536673
+
+SESSION_SET:  '/home/linux-pc/gh/CRCNS/src/motor_cortex/data/data/Ipsilateral/2018-04-29_(S1)/X.npy', 1
+best_epoch: 37 | best_val_loss: 0.6379242791286294
+
+SESSION_SET: '/home/linux-pc/gh/CRCNS/src/motor_cortex/data/data/Ipsilateral/2018-05-06_(S6)/X.npy', 2
+best_epoch: best_epoch: 38 | best_val_loss: 0.8409318641891318
+
+SESSION_SET: '/home/linux-pc/gh/CRCNS/src/motor_cortex/data/data/Ipsilateral/2018-05-03_(S5)/X.npy', 3
+best_epoch: best_epoch: 25 | best_val_loss: 0.8970093024228729
+
+SESSION_SET: '/home/linux-pc/gh/CRCNS/src/motor_cortex/data/data/Ipsilateral/2018-05-03_(S3)/X.npy', 4
+best_epoch: best_epoch: 38 | best_val_loss: 0.6026811446545653
+
+SESSION_SET: '/home/linux-pc/gh/CRCNS/src/motor_cortex/data/data/Ipsilateral/2018-05-03_(S4)/X.npy', 5
+best_epoch: best_epoch: 39 | best_val_loss: 0.6191104888902768
+
+SESSION_SET: '/home/linux-pc/gh/CRCNS/src/motor_cortex/data/data/Ipsilateral/2018-05-10_(S8)/X.npy', 6
+best_epoch: best_epoch: 39 | best_val_loss: 0.48322306186414477
+
+SESSION_SET: '/home/linux-pc/gh/CRCNS/src/motor_cortex/data/data/Ipsilateral/2018-05-17_(S9)/X.npy', 7
+best_epoch: best_epoch: 19 | best_val_loss: 0.9167780305682672
+
+SESSION_SET: '/home/linux-pc/gh/CRCNS/src/motor_cortex/data/data/Ipsilateral/2018-04-29_(S2)/X.npy' 8
+best_epoch: best_epoch: 36 | best_val_loss: 0.7321830718791841
+
+SESSION_SET: (intended to be held out for test) '/home/linux-pc/gh/CRCNS/src/motor_cortex/data/data/Ipsilateral/2018-05-10_(S7)/X.npy'
+best_epoch: best_epoch: 27 | best_val_loss: 0.7566315135227596
