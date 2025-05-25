@@ -8,6 +8,10 @@ This is a repository to explore and extrapolate CRCNS data to allow individuals 
 
 - [Motor Cortex README](./src/motor_cortex/README.md)
 
+### Model Architecture
+
+![](/imgs/ecog_to_motion_CNN_LSTM_architecture.png)
+
 **Validation performance of the model: Hybrid_CNN_LSTM_contralateral_3_output_session_0:**
 
 ```
