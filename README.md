@@ -4,9 +4,7 @@ This is a repository to explore and extrapolate CRCNS data to allow individuals 
 
 ---
 
-## Motor Cortex
-
-- [Motor Cortex README](./src/motor_cortex/README.md)
+## [Motor Cortex](./src/motor_cortex/README.md)
 
 ### Model Architecture
 
