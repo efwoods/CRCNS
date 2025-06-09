@@ -18,7 +18,7 @@ Epoch 95/100 | Train Loss: 0.002427 | Val Loss: 0.004928 | R2: 0.926363
 ```
 
 ```
-Ipsiplateral
+Ipsilateral
 R2: 0.60+
 ```
 
