@@ -4,7 +4,7 @@ import torch.nn as nn
 
 class MotionDecoder(nn.Module):
     """
-    Accepts Motion Latents and creates Synthetic Neural Waveforms
+    Accepts Waveform Latents and recreates Motion
     """
 
     def __init__(self, latent_dim=128):
